@@ -18,6 +18,7 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/UpdateUserForm.js", "components/UpdateUserForm.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/UpdateUserForm.js", "components/UpdateUserForm.jsx", "redux/store.tsx", "redux/reducer.tsx"],
   "exclude": ["node_modules"]
 }
+  
